@@ -1,0 +1,16 @@
+h1. SICP video lectures
+
+This repo contains clojure code that I created while watching the SICP video lectures.
+
+The source files, deriv1.clj to deriv5.clj, follow the lectures on how to calculate the
+derivative of mathematical functions. I think these code-examples are shown in lectures 3B and 4A.
+
+The final version of the program, deriv5.clj, uses pattern matching and rule-based substitution to
+calculate the derivative function.
+
+The video lectures can be found here:
+
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
+
+
+
